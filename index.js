@@ -6,3 +6,5 @@ function add5() {
 
 console.log(number)
 
+parseInt('nonsense!', 10)
+
