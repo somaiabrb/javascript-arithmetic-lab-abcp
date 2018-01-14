@@ -5,3 +5,4 @@ function add5() {
 }
 
 console.log(number)
+
